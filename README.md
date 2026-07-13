@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm **Prasheel Kr. Singh**
 
-<!--
-**piyushsingh00bkp-ui/piyushsingh00bkp-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently pursuing **B.Tech in Computer Science & Engineering (2025-2029)**.
 
-Here are some ideas to get you started:
+🏫 Schooled from **Sacred Heart Day High School**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Ask me about **C++, C, Python, HTML, CSS, JavaScript, and AI/ML**.
+
+🌱 I'm currently learning **Data Structures & Algorithms (C++)**, **Competitive Programming**, **Backend Development**, and **Artificial Intelligence & Machine Learning**.
+
+🚀 My goal is to become an exceptional Software Engineer and AI Engineer by continuously improving my problem-solving skills.
+
+🤝 I'm looking to collaborate on **AI/ML**, **Open Source**, and **Web Development** projects.
+
+⚡ Fun fact: I believe consistency beats talent when talent isn't consistent.
+
+📫 How to reach me: **(bantisingh88bkp@gmail.com)**
+
