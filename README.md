@@ -4,9 +4,7 @@
 
 🏫 Schooled from **Sacred Heart Day High School**.
 
-💻 Ask me about **C++, C, Python, HTML, CSS, JavaScript, and AI/ML**.
-
-🌱 I'm currently learning **Data Structures & Algorithms (C++)**, **Competitive Programming**, **Backend Development**, and **Artificial Intelligence & Machine Learning**.
+🌱 I'm currently learning **Data Structures & Algorithms (C++)**, **Frontend Development**, **Backend Development**, and **Artificial Intelligence & Machine Learning**.
 
 🚀 My goal is to become an exceptional Software Engineer and AI Engineer by continuously improving my problem-solving skills.
 
